@@ -50,11 +50,11 @@ Audiobook Library Books, Classic Essentials Library! Publisher of classic Italia
 
 <!-- Needs work! --> 
 ## Privacy
-In order to improve the developer experience for Unity ML-Agents Toolkit, we have added in-editor analytics. Please refer to "Information that is passively collected by Unity" in the [Classic Values Privacy Policy](https://classicvalues.dev/privacy%20policy/). 
+In order to improve the developer experience we have added in-editor analytics. Please refer to "Information that is passively collected" in the [Privacy Policy](https://classicvalues.dev/privacy%20policy/). 
 
 <!-- Needs work! Extend Thank you to Shields.io, Boost & Beast Teams, as well as CoreUI themselves, Lukasz, Mark, and "Fat" as well as Juliani, A., Berges, V., Teng, E., Cohen, A., Harper, J., Elion, C., Goy, C., Gao, Y., Henry, H., Mattar, M., Lange, D., et. al. (2020). Unity: A General Platform for Intelligent Agents. _arXiv preprint [arXiv:1809.02627](https://arxiv.org/abs/1809.02627)._ https://github.com/Unity-Technologies/ml-agents.--> 
 ## Thanks 
-[CoreUI] (https://coreui.io/) is designed as the extension of [Bootstrap5](https://getbootstrap.com). Special thanks to the [CoreUI Team](https://coreui.io/about/services/) and the [Bootstrap team](https://getbootstrap.com/docs/5.0/about/team/) and both [CoreUI's Contributors](https://github.com/coreui/coreui/graphs/contributors) and [Bootstrap's contributors](https://github.com/twbs/bootstrap/graphs/contributors) for all their hard work and achievments. 
+[CoreUI](https://coreui.io/) is designed as the extension of [Bootstrap5](https://getbootstrap.com). Special thanks to the [CoreUI Team](https://coreui.io/about/services/) and the [Bootstrap team](https://getbootstrap.com/docs/5.0/about/team/) and both [CoreUI's Contributors](https://github.com/coreui/coreui/graphs/contributors) and [Bootstrap's contributors](https://github.com/twbs/bootstrap/graphs/contributors) for all their hard work and achievments. 
  
 ## Copyright and License
 Copyright 2021 creativeLabs Łukasz Holeczek. Code released under the [MIT License](https://github.com/coreui/coreui/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
