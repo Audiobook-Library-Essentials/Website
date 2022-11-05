@@ -18,7 +18,7 @@ Audiobook Library Books, Classic Essentials Library! Publisher of classic Italia
             ·
         <a href="https://github.com/Audiobook-Library-Essentials/audiobooklibraryessentials.org-website/issues/new/choose">Contact us</a>
             ·
-        <a href="https://classicvalues.dev/./#^%/blog">Blog</a>
+        <a href="https://github.com/Audiobook-Library-Essentials/audiobooklibraryessentials.org-website/discussions">Discussion</a>
 </p>
 
 <p align="center">
@@ -46,65 +46,6 @@ Audiobook Library Books, Classic Essentials Library! Publisher of classic Italia
 - Support for multiple environment configurations and ml-training scenarios
 - Flexible Bootstrap 5 backbone that can be integrated into your website or custom Unity scene 
 - Support for multi-page HTML5 rendering through Jekyll and GitHub Pages Static
-
-## Releases & Documentation 
-
-<!-- Version 1 integration with links! Though objective theory and interjection for follow-through application versionings. --> 
-**Our latest, stable release is `Release v1.0`.** 
-
-<!-- Version 1 integration with links! Though objective theory and interjection for follow-through application versionings. --> 
-The table below lists all our releases, including our `main` branch which is under active development and may be unstable. A few helpful guidelines: 
-- The [Versioning page](docs/Versioning.md) overviews how we manage our GitHub releases and the versioning process for each of the ML-Agents components. 
-- The [Releases page](https://github.com/Unity-Technologies/ml-agents/releases) contains details of the changes between releases. 
-- The [Migration page](docs/Migrating.md) contains details on how to upgrade from earlier releases of the ML-Agents Toolkit. 
-- The **Documentation** links in the table below include installation and usage instructions specific to each release. Remember to always use the documentation that corresponds to the release version you're using. 
-- The `com.unity.ml-agents` package is [verified](https://docs.unity3d.com/2020.1/Documentation/Manual/pack-safe.html) for Unity 2020.1 and later. Verified packages releases are numbered 1.0.x. 
-
-
-<!-- Version 1 integration with links! Though objective theory and interjection for follow-through application versionings. --> 
-| **Version** | **Release Date** | **Source** | **Documentation** | **Download** | **Python Package** | **Unity Package** | 
-|:-------:|:------:|:-------------:|:-------:|:------------:|:------------:|:------------:| 
-| **main (unstable)** | **October 6, 2022** | [source](https://github.com/webVert-host/summer-0/find/master) | [docs](https://github.com/webVert-host/summer-0/blob/master/README.md) | [download](https://github.com/Unity-Technologies/ml-agents/archive/main.zip) | -- | -- | 
-| **Release 19** | **January 14, 2022** | **[source](https://github.com/Unity-Technologies/ml-agents/tree/release_19)** | **[docs](https://github.com/Unity-Technologies/ml-agents/tree/release_19_docs/docs/Readme.md)** | **[download](https://github.com/Unity-Technologies/ml-agents/archive/release_19.zip)** | **[0.28.0](https://pypi.org/project/mlagents/0.28.0/)** | **[2.2.1](https://docs.unity3d.com/Packages/com.unity.ml-agents@2.2/manual/index.html)** | 
-| **Verified Package 1.0.8** | **May 26, 2021** | **[source](https://github.com/Unity-Technologies/ml-agents/tree/com.unity.ml-agents_1.0.8)** | **[docs](https://github.com/Unity-Technologies/ml-agents/blob/release_2_verified_docs/docs/Readme.md)** | **[download](https://github.com/Unity-Technologies/ml-agents/archive/com.unity.ml-agents_1.0.8.zip)** | **[0.16.1](https://pypi.org/project/mlagents/0.16.1/)** | **[1.0.8](https://docs.unity3d.com/Packages/com.unity.ml-agents@1.0/manual/index.html)** |
-
-<!-- "More from ClassicValues" Apps, Websites, and other links, inluding Github Repos and other corporations like SoftwareSafety and NuevoEye  -->
-### More from Classic Values 
-
-- [Classic Values: Classic Pinball](https://github.com/Unity-Technologies/Unity-Robotics-Hub) 
-- [Classic Values: Tensorflow.GameDev](https://github.com/classicvalues/tensorflow/) 
-- [Classic Values: Pachinko](https://unity.com/products/game-simulation) 
-
-
-<!-- classicvaluesllc@gmail.com and other emails for the project. Links to FAQ, Community Board, sugggestions, security issue boards, and other link  -->
-## Community and Feedback 
-
-The ML-Agents Toolkit is an open-source project and we encourage and welcome contributions. If you wish to contribute, be sure to review our [contribution guidelines](com.unity.ml-agents/CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md). 
-
-For problems with the installation and setup of the ML-Agents Toolkit, or discussions about how to best setup or train your agents, please create a new thread on the [Unity ML-Agents forum](https://forum.unity.com/forums/ml-agents.453/) and make sure to include as much detail as possible. If you run into any other problems using the ML-Agents Toolkit or have a specific feature request, please [submit a GitHub issue](https://github.com/Unity-Technologies/ml-agents/issues). 
-
-Please tell us which samples you would like to see shipped with the ML-Agents Unity package by replying to [this forum thread](https://forum.unity.com/threads/feedback-wanted-shipping-sample-s-with-the-ml-agents-package.1073468/). 
-
-Your opinion matters a great deal to us. Only by hearing your thoughts on the Unity ML-Agents Toolkit can we continue to improve and grow. Please take a few minutes to [let us know about it](https://unitysoftware.co1.qualtrics.com/jfe/form/SV_55pQKCZ578t0kbc). 
-
-For any other questions or feedback, connect directly with the ML-Agents team at ml-agents@unity3d.com.
-
-<!-- App Engine and Blog Integrations,  -->
-## Blog Posts
-We have also published a series of blog posts that are relevant for CoreUI site publishing as well as template development and CoreUI/Google App Engine Integrations:
-
-- (October 6, 2022)
-    [Introduction]
-- (October 7, 2022)
-    [Bootstrap]
-- (October 8, 2022)
-    [Boost/Beast] & [Page.Links]
-- (October 9, 2022)
-    [App.Engine.Google.Cloud.Platform.API]
-- (October 10, 2022)
-    [VCPkg]
-- (October 11, 2022 - November 1, 2022)
-    [Pinball] & [Pong] & [Plinko]
 
 <!-- Needs work! --> 
 ## Privacy
