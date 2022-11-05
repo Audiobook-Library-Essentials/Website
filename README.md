@@ -1,14 +1,13 @@
 <p align="center">
-  <a href="https://classicvalues.dev">
-    <img src="https://avatars.githubusercontent.com/u/71681815?s=400&u=d2fd084b77b464587cdf224deb1fb944f190d853&v=4" alt="Classic Values logo" width="250">
+  <a href="https://audiobooklibraryessentials.org">
+    <img src="https://avatars.githubusercontent.com/u/71681815?s=400&u=d2fd084b77b464587cdf224deb1fb944f190d853&v=4" alt="Audiobook Library Essentials logo" width="250">
   </a>
 </p>
 
-<h3 align="center">Classic Values Website</h3>
+<h3 align="center">Audiobook Library Essentials Website</h3>
 
 <p align="center">
-Software Gaming Development Company!
-Classic Games on Mobile Devices.
+Audiobook Library Books, Classic Essentials Library! Publisher of classic Italian Leatherbound Collections, Audiobooks on Audible, Google Books, and Apple Books. Free Librevox (with Gutenberg Project Closed Captioning) on our YouTube channel! Keep an eye out for more of your classics, here on our Creative Commons hosting service. The best of the classics, to keep the mind sharp, and to make the young genius intelligent. Pleanty of Artificial Intelligence, from the Ages and the Bleeding Edge, to help you in your endeavours here. 
     <br>
     <a href="https://classicvalues.dev/apps/"><strong>Explore our Applications »</strong></a>
     <br>
