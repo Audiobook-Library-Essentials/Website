@@ -12,11 +12,11 @@ Audiobook Library Books, Classic Essentials Library! Publisher of classic Italia
     <a href="[https://classicvalues.dev/apps/](https://www.youtube.com/channel/UCo8WndPIX8Aw6haI1cyEjgQ)"><strong>Explore our Free Audiobooks on our YouTube channel»</strong></a>
     <br>
     <br>
-        <a href="https://github.com/classicvalues/classicvalues-website-update/issues/new?assignees=&labels=&template=bug_report.md&title=">Report bug</a>
+        <a href="https://github.com/Audiobook-Library-Essentials/audiobooklibraryessentials.org-website/issues/new?assignees=&labels=&template=bug_report.md&title=/">Report bug</a>
             ·
-        <a href="https://github.com/classicvalues/classicvalues-website-update/issues/new?assignees=&labels=feature&template=feature_request.md&title=">Request feature</a>
+        <a href="https://github.com/Audiobook-Library-Essentials/audiobooklibraryessentials.org-website/issues/new?assignees=&labels=feature&template=feature_request.md&title=">Request feature</a>
             ·
-        <a href="https://github.com/classicvalues/classicvalues-website-update/issues/new/choose">Contact us</a>
+        <a href="https://github.com/Audiobook-Library-Essentials/audiobooklibraryessentials.org-website/issues/new/choose">Contact us</a>
             ·
         <a href="https://classicvalues.dev/./#^%/blog">Blog</a>
 </p>
