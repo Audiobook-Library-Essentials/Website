@@ -9,7 +9,7 @@
 <p align="center">
 Audiobook Library Books, Classic Essentials Library! Publisher of classic Italian Leatherbound Collections, Audiobooks on Audible, Google Books, and Apple Books. Free Librevox (with Gutenberg Project Closed Captioning) on our YouTube channel! Keep an eye out for more of your classics, here on our Creative Commons hosting service. The best of the classics, to keep the mind sharp, and to make the young genius intelligent. Pleanty of Artificial Intelligence, from the Ages and the Bleeding Edge, to help you in your endeavours here. 
     <br>
-    <a href="https://classicvalues.dev/apps/"><strong>Explore our Applications »</strong></a>
+    <a href="[https://classicvalues.dev/apps/](https://www.youtube.com/channel/UCo8WndPIX8Aw6haI1cyEjgQ)"><strong>Explore our Free Audiobooks on our YouTube channel»</strong></a>
     <br>
     <br>
         <a href="https://github.com/classicvalues/classicvalues-website-update/issues/new?assignees=&labels=&template=bug_report.md&title=">Report bug</a>
