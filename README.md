@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://audiobooklibraryessentials.org">
-    <img src="https://avatars.githubusercontent.com/u/71681815?s=400&u=d2fd084b77b464587cdf224deb1fb944f190d853&v=4" alt="Audiobook Library Essentials logo" width="250">
+    <img src="https://avatars.githubusercontent.com/u/116845291?v=4" alt="Audiobook Library Essentials logo" width="250">
   </a>
 </p>
 
